@@ -41,6 +41,6 @@ Hello, I'm Mateus Ferri Schmitz, Software Engineer, currently working at CodeJob
 
 ## ⚡ Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusferrischmitz)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=mateusfs&show_icons=true&count_private=true&include_all_commits=true&hide=stars)
+![Github stats](https://github-readme-stats.vercel.app/api?username=mateusferrischmitz&show_icons=true&count_private=true&include_all_commits=true&hide=stars)
