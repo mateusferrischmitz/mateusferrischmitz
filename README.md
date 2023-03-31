@@ -1,6 +1,6 @@
 ## Hello there! <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f596.png" width="30px">
 
-Hello, I'm Mateus Ferri Schmitz, Software Engineer, currently working at CodeJob. 
+Hello, I'm Mateus Ferri Schmitz, Software Engineer, currently working at Bravi. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-mateusfs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusfs/)](https://www.linkedin.com/in/mateusfs/)
 [![Medium Badge](https://img.shields.io/badge/codementor-%40mateusfs-blue)](https://www.codementor.io/@mateusfs)
